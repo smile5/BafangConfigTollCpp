@@ -1,0 +1,34 @@
+Niveaux d'assistance (PAS):
+---------------------------
+
+Selon votre console et son nombre de PAS configurés, les tableaux suivants montrent leur association avec les niveaux de PAS de ce logiciel. 
+Attention, certains revendeurs peuvent modifier cette allocation
+
+
+Consoles C961, C962, C965, DPC14(850C) 
+------------------------------
+9 niveaux: 0 1 2 3 4 5 6 7 8 9
+5 niveaux: 0   1   2   3   4 5
+3 niveaux: 0     1   2       3
+------------------------------
+Exemple:
+Pour une console C962 configurée avec 3 niveaux de PAS, le PAS #2 de la console va correspondre au PAS #5 de ce logiciel de configuration.
+
+Consoles DPC18, 500C 
+------------------------------
+9 niveaux: 0 1 2 3 4 5 6 7 8 9
+5 niveaux: 0 1   2   3   4   5
+3 niveaux: 0     1     2     3
+------------------------------
+
+
+
+
+
+
+
+
+
+
+
+

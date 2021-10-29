@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>profil_pedal.png</file>
+    </qresource>
+</RCC>

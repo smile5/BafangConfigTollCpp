@@ -1,0 +1,34 @@
+
+PAS levels:
+-----------
+
+Depending on your display and the number of PAS configured, the following tables shows the original bafang equivalence with the software PAS levels.
+Note that some dealers can modify this allocation.
+
+Displays C961, C962, C965, DPC14(850C) 
+------------------------------
+9 levels : 0 1 2 3 4 5 6 7 8 9
+5 levels : 0   1   2   3   4 5
+3 levels : 0     1   2       3
+------------------------------
+Example:
+For a C962 display configured with 3 levels, the PAS#2 of the C962 display corresponds to the PAS#5 of the software configuration tool.
+
+Displays DPC18, 500C 
+------------------------------
+9 levels : 0 1 2 3 4 5 6 7 8 9
+5 levels : 0 1   2   3   4   5
+3 levels : 0     1     2     3
+------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
